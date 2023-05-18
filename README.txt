@@ -1,0 +1,1 @@
+Execute o Centurion.py dentro do mesmo diretório que está contida a trilha angel.mp3 para que não haja erro de load do arquivo.
